@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&text=Hello!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=tokyonight&text=Hello!&height=100&section=header"/>
 </p>
 
 <h1 align="center">
@@ -35,7 +35,6 @@
 </a>
 </p>
 ---!>
----
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
@@ -93,5 +92,5 @@ hobbies: ["Basketball", "Tennis","Acrylic Painting","UI/UX App Design"]
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=tokyonight&height=100&section=footer"/>
 </p>
