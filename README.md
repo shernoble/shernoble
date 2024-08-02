@@ -5,6 +5,14 @@
 <h1 align="center">
   Let's Connect and have a Chat!💬
 </h1>
+<p align="center">
+<a href="https://www.linkedin.com/in/kavya-lolla-00074725b/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+<a href="https://www.behance.net/kavyalolla">
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/behance/behance-original.svg"/>
+</a>
+</p>
 <!---
 <p align="center">
 <a href="https://piyushmalhotra.netlify.app/">
@@ -85,5 +93,5 @@ hobbies: ["Basketball", "Tennis","Acrylic Painting","UI/UX App Design"]
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/>
 </p>
