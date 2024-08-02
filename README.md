@@ -91,7 +91,7 @@ hobbies: ["Basketball", "Tennis","Acrylic Painting","UI/UX App Design"]
 
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shernoble&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shernoble&layout=compact&theme=radical)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&theme=cobolt&height=100&section=footer"/>
