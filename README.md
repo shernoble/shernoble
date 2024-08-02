@@ -92,5 +92,5 @@ hobbies: ["Basketball", "Tennis","Acrylic Painting","UI/UX App Design"]
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&theme=gruvbox&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&theme=cobolt&height=100&section=footer"/>
 </p>
