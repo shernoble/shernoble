@@ -44,13 +44,15 @@ located_in: Bengaluru, Karnataka, India
 current_job: Student @ IIITS
 education:
   [
-    "Self-Taught Developer and Designer",
+    "Self-Taught Developer ",
     "Pursuing Bachelor's in Computer Science",
+    "Batch of 2025",
   ]
 
 fields_of_interests:
   [
     "Web Development",
+    "DevOps",
     "UI/UX",
     "OOPs",
   ]
@@ -61,7 +63,7 @@ technical_background:
     "Intern - MEAN stack developer",
   ]
   
-currently_learning: ["React Native, Figma, AdobeXD"]
+currently_learning: ["DevOps,React Native,Figma"]
 hobbies: ["Basketball", "Tennis","Acrylic Painting","UI/UX App Design"]
 ```
   
